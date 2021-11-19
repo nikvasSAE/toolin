@@ -1,7 +1,8 @@
+using PlasticPipe.PlasticProtocol.Messages;
 using UnityEngine;
 using UnityEditor;
 
-namespace Martyn
+namespace MartynTool
 {
     [CustomPropertyDrawer(typeof(RangedInt), true)]
     [CustomPropertyDrawer(typeof(RangedFloat), true)]
@@ -21,31 +22,32 @@ namespace Martyn
                 {
                     float minValue = minProp.intValue;
                     float maxValue = maxProp.intValue;
-
+                    const string decimals = "f0";
+                    
                     float rangeMin = 0;
                     float rangeMax = 1;
-
+                    
                     var ranges = (MinMaxRangeAttribute[])fieldInfo.GetCustomAttributes(typeof(MinMaxRangeAttribute), true);
                     if (ranges.Length > 0)
                     {
                         rangeMin = ranges[0].Min;
                         rangeMax = ranges[0].Max;
                     }
-
+                    
                     const float rangeBoundsLabelWidth = 40f;
-
+                    
                     var rangeBoundsLabel1Rect = new Rect(position)
                     {
                         width = rangeBoundsLabelWidth
                     };
-                    GUI.Label(rangeBoundsLabel1Rect, new GUIContent(minValue.ToString("F0")));
+                    GUI.Label(rangeBoundsLabel1Rect, new GUIContent(minValue.ToString(decimals)));
                     position.xMin += rangeBoundsLabelWidth;
-
+                    
                     var rangeBounds2Rect = new Rect(position);
                     rangeBounds2Rect.xMin = rangeBounds2Rect.xMax - rangeBoundsLabelWidth;
-                    GUI.Label(rangeBounds2Rect, new GUIContent(maxValue.ToString("F0")));
+                    GUI.Label(rangeBounds2Rect, new GUIContent(maxValue.ToString(decimals)));
                     position.xMax -= rangeBoundsLabelWidth;
-
+                    
                     EditorGUI.BeginChangeCheck();
                     EditorGUI.MinMaxSlider(position, ref minValue, ref maxValue, rangeMin, rangeMax);
                     if (EditorGUI.EndChangeCheck())
@@ -60,6 +62,7 @@ namespace Martyn
                 {
                     var minValue = minProp.floatValue;
                     var maxValue = maxProp.floatValue;
+                    const string decimals = "f2";
 
                     float rangeMin = 0;
                     float rangeMax = 1;
@@ -77,12 +80,12 @@ namespace Martyn
                     {
                         width = rangeBoundsLabelWidth
                     };
-                    GUI.Label(rangeBoundsLabel1Rect, new GUIContent(minValue.ToString("F2")));
+                    GUI.Label(rangeBoundsLabel1Rect, new GUIContent(minValue.ToString(decimals)));
                     position.xMin += rangeBoundsLabelWidth;
-
+                    
                     var rangeBounds2Rect = new Rect(position);
                     rangeBounds2Rect.xMin = rangeBounds2Rect.xMax - rangeBoundsLabelWidth;
-                    GUI.Label(rangeBounds2Rect, new GUIContent(maxValue.ToString("F2")));
+                    GUI.Label(rangeBounds2Rect, new GUIContent(maxValue.ToString(decimals)));
                     position.xMax -= rangeBoundsLabelWidth;
 
                     EditorGUI.BeginChangeCheck();

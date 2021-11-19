@@ -1,11 +1,23 @@
 using System;
+using UnityEngine;
 
-namespace Martyn
+namespace MartynTool
 {
     [Serializable]
     public struct RangedInt
     {
-        public int minValue;
-        public int maxValue;
+        [SerializeField] private int minValue;
+        [SerializeField] private int maxValue;
+
+        public int MinValue
+        {
+            get => minValue;
+            private set => minValue = value;
+        }
+
+        public int MaxValue {
+            get => maxValue;
+            private set => maxValue = value;
+        }
     }
 }
