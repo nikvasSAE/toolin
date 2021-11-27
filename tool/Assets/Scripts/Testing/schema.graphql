@@ -1,0 +1,114 @@
+
+scalar DateTime
+
+type Query {
+    users: [HexedUser]
+    actions: [InputActionMetrics]
+    levels: [LevelSettings]
+    user(identity: Int!) : HexedUser!
+    actionsForUser(identity: Int!) : InputActionMetrics
+    levelsByUser(identity: Int!) : LevelSettings
+    leaderboard: [LeaderboardScore]
+}
+
+type Mutation {
+    createUser(input: LevelSettingsInput!) : SuccessResponseType!
+
+    updateUser(input: HexedUserInput!) : SuccessResponseType!
+
+    deleteUser(identity: Int!) : Boolean!
+
+    createUserAction(input: InputActionMetricsInput!) : InputActionResponseType!
+
+    updateUserAction(input: InputActionMetricsInput) : InputActionResponseType!
+
+    deleteUserAction(identity: Int!) : Boolean!
+
+    addLeaderboardScore(input: LeaderboardInputType!) : LeaderboardScore!
+
+    updateLeaderboardScore(input: LeaderboardInputType!) : LeaderboardScore!
+
+    deleteLeaderboardScore(identity: Int!) : Boolean!
+
+}
+
+type HexedUser {
+    _id: ID!
+    identity: Int
+    actions: InputActionMetrics
+    level: LevelSettings
+    leaderboard: LeaderboardScore
+    created_at: DateTime
+    updated_at: DateTime
+}
+
+type LevelSettings {
+    name: String
+    data: [LevelData]
+    owner: ID!
+}
+
+type LevelData {
+    row: Int
+    column: [Int]
+}
+
+type InputActionMetrics {
+    owner: ID!
+    number_of_actions: Int
+    total_actions_upwards_direction: Int
+    total_actions_downwards_direction: Int
+    total_actions_left_direction: Int
+    total_actions_right_direction: Int
+}
+
+type LeaderboardScore {
+    owner: ID!
+    username: String
+    score: Int
+}
+
+# Input Types 
+
+input InputActionMetricsInput {
+    number_of_actions: Int
+    total_actions_upwards_direction: Int
+    total_actions_downwards_direction: Int
+    total_actions_left_direction: Int
+    total_actions_right_direction: Int
+}
+
+input LevelDataInput {
+    row: Int
+    column: [Int]
+}
+
+input LevelSettingsInput {
+    name: String
+    data: [LevelDataInput]
+}
+
+input HexedUserInput {
+    actions: InputActionMetricsInput
+    level: LevelSettingsInput
+}
+
+input LeaderboardInputType {
+    username: String
+    score: Int
+}
+
+type InputActionResponseType {
+    action: InputActionMetrics
+    errors: [ErrorResponseType]
+}
+
+type ErrorResponseType {
+    message: String
+    code: Int
+}
+
+type SuccessResponseType {
+    user: HexedUser
+    errors: [ErrorResponseType]
+}
