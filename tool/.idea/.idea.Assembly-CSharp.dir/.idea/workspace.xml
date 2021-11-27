@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30b6f893-68d6-4bed-97ae-9c4719660c49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe.html.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/22d474190b1889d3373fa4f9334e979c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/22d474190b1889d3373fa4f9334e979c.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/a276129472f6ad4719e01704016e6f73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/a276129472f6ad4719e01704016e6f73.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/cmdline_frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/cmdline_frame.html.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/comment-reply.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/comment-reply.min.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/default.min.css.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/font-awesome.min(1).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/font-awesome.min(1).css.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/font-awesome.min.css.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/jquery-migrate.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/jquery-migrate.min.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/jquery.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/jquery.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shBrushCSharp.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shBrushCSharp.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shCore.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shCore.css.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shCore.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shCore.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shThemeDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/shThemeDefault.css.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/style.min.css.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/style.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/style.min.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/wp-embed.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/wp-embed.min.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/wp-emoji-release.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/wp-emoji-release.min.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/wp-slimstat.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Documentation/ReadMe_files/wp-slimstat.min.js.download.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/AwaitExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/AwaitExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/Awaiters.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/Awaiters.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/Internal.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/TaskExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/TaskExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/WaitForBackgroundThread.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/WaitForBackgroundThread.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/WaitForUpdate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Source/WaitForUpdate.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests/AsyncTests.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests/AsyncTests.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests/AsyncUtilTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests/AsyncUtilTests.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests/Util.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests/Util/TestButtonHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/Tests/Util/TestButtonHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/UniRx.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/AsyncAwaitUtil/UniRx.zip.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PretendUserController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PretendUserController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Editor/GraphQLCustomEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Editor/GraphQLCustomEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/GraphQL - Server Connection Config.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/GraphQL - Server Connection Config.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/GraphQLEditorConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/GraphQLEditorConfig.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Singleton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Singleton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Utility.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Utility/Coroutiner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Utility/Coroutiner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Utility/EnumInputConverter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/Utility/EnumInputConverter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/HttpHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/HttpHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/Introspection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/Introspection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/events.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/events/GraphQLEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/events/GraphQLEvent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/events/callbacks.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/events/callbacks/GraphQLEventCallbacks.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/__graphql/core/events/callbacks/GraphQLEventCallbacks.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/LICENSE.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/System.Buffers.4.5.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/System.Buffers.4.5.1.nupkg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/THIRD-PARTY-NOTICES.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/net461.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netcoreapp2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netcoreapp2.0/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard1.1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/uap10.0.16299.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/uap10.0.16299/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/lib/uap10.0.16299/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/net45.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netcoreapp2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netcoreapp2.0/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard1.1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/uap10.0.16299.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/uap10.0.16299/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/ref/uap10.0.16299/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/useSharedDesignerContext.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Buffers.4.5.1/version.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/LICENSE.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/System.Memory.4.5.4.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/System.Memory.4.5.4.nupkg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/THIRD-PARTY-NOTICES.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/net461.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/net461/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/net461/System.Memory.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/net461/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/net461/System.Memory.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netcoreapp2.1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netcoreapp2.1/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netcoreapp2.1/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard1.1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard1.1/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard1.1/System.Memory.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard1.1/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard1.1/System.Memory.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard2.0/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard2.0/System.Memory.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard2.0/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/lib/netstandard2.0/System.Memory.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/ref.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/ref/netcoreapp2.1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/ref/netcoreapp2.1/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/ref/netcoreapp2.1/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/useSharedDesignerContext.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Memory.4.5.4/version.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/LICENSE.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/System.Numerics.Vectors.4.5.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/System.Numerics.Vectors.4.5.0.nupkg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/THIRD-PARTY-NOTICES.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/MonoAndroid10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/MonoAndroid10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/MonoTouch10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/MonoTouch10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/net46.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/net46/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/net46/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/net46/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/net46/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netcoreapp2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netcoreapp2.0/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard1.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard1.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard1.0/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard1.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard1.0/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard2.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard2.0/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard2.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/netstandard2.0/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/uap10.0.16299.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/uap10.0.16299/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/uap10.0.16299/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinios10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinios10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinmac20.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinmac20/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarintvos10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarintvos10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinwatchos10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/lib/xamarinwatchos10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/MonoAndroid10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/MonoAndroid10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/MonoTouch10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/MonoTouch10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net45.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net45/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net45/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net45/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net45/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net46.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net46/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net46/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net46/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/net46/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netcoreapp2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netcoreapp2.0/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard1.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard1.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard1.0/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard1.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard1.0/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard2.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard2.0/System.Numerics.Vectors.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard2.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/netstandard2.0/System.Numerics.Vectors.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/uap10.0.16299.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/uap10.0.16299/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/uap10.0.16299/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinios10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinios10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinmac20.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinmac20/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarintvos10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarintvos10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinwatchos10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/ref/xamarinwatchos10/_._.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/useSharedDesignerContext.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Numerics.Vectors.4.5.0/version.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/LICENSE.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/System.Runtime.CompilerServices.Unsafe.4.5.3.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/System.Runtime.CompilerServices.Unsafe.4.5.3.nupkg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/THIRD-PARTY-NOTICES.TXT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/net461.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/net461/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/net461/System.Runtime.CompilerServices.Unsafe.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/net461/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/net461/System.Runtime.CompilerServices.Unsafe.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netcoreapp2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard1.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/net461.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/net461/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/net461/System.Runtime.CompilerServices.Unsafe.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/net461/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/net461/System.Runtime.CompilerServices.Unsafe.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard1.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard2.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/useSharedDesignerContext.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/version.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/Unity.Newtonsoft.Json.7.0.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/Unity.Newtonsoft.Json.7.0.0.0.nupkg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/lib.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/lib/net35-Client.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/lib/net35-Client/Unity.Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/lib/net35-Client/Unity.Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/lib/net35-Client/Unity.Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/packages/Unity.Newtonsoft.Json.7.0.0.0/lib/net35-Client/Unity.Newtonsoft.Json.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assetsschema.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuget.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/__graphql/GraphQLEditor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="21PkoijkYTFuCQK8eR51JWe6QXH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.github.copilot.settings.ApplicationConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30b6f893-68d6-4bed-97ae-9c4719660c49" name="Changes" comment="" />
+      <created>1637850287344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637850287344</updated>
+      <workItem from="1637850299038" duration="38000" />
+      <workItem from="1637920273987" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
